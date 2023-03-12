@@ -1,5 +1,7 @@
 # Projeto Thelastofus - Feito a partir de Lives do DevemDobro
-
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
           
 Projeto onde tem um topo de pagina com um carrossel, onde se clica nas bolinhas em baixo e ele vai mudando conforme vai clicando.
 
